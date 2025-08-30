@@ -1,1 +1,1 @@
-# farm for git
+# farm for git with Github Desktop
